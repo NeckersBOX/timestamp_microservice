@@ -1,0 +1,23 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice - freeCodeCamp Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeckersBOX/timestamp_microservice.git"
+  },
+  "author": "Davide Francesco Merico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeckersBOX/timestamp_microservice/issues"
+  },
+  "homepage": "https://github.com/NeckersBOX/timestamp_microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "server": "0.0.3"
+  }
+}
