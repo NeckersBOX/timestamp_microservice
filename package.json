@@ -1,6 +1,6 @@
 {
   "name": "timestamp_microservice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Timestamp Microservice - freeCodeCamp Challenge",
   "main": "index.js",
   "scripts": {
